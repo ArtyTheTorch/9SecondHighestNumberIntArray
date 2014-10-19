@@ -1,0 +1,14 @@
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\9SecondHighestNumberIntArray\9SecondHighestNumberIntArray\bin\Debug\9SecondHighestNumberIntArray.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\9SecondHighestNumberIntArray\9SecondHighestNumberIntArray\bin\Debug\9SecondHighestNumberIntArray.pdb
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\9SecondHighestNumberIntArray\9SecondHighestNumberIntArray\obj\x86\Debug\_9SecondHighestNumberIntArray.Form1.resources
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\9SecondHighestNumberIntArray\9SecondHighestNumberIntArray\obj\x86\Debug\_9SecondHighestNumberIntArray.Properties.Resources.resources
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\9SecondHighestNumberIntArray\9SecondHighestNumberIntArray\obj\x86\Debug\9SecondHighestNumberIntArray.csproj.GenerateResource.Cache
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\9SecondHighestNumberIntArray\9SecondHighestNumberIntArray\obj\x86\Debug\9SecondHighestNumberIntArray.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\9SecondHighestNumberIntArray\9SecondHighestNumberIntArray\obj\x86\Debug\9SecondHighestNumberIntArray.pdb
+C:\Users\GARRET\Documents\GitHub\9SecondHighestNumberIntArray\9SecondHighestNumberIntArray\obj\x86\Debug\9SecondHighestNumberIntArray.exe
+C:\Users\GARRET\Documents\GitHub\9SecondHighestNumberIntArray\9SecondHighestNumberIntArray\obj\x86\Debug\9SecondHighestNumberIntArray.pdb
+C:\Users\GARRET\Documents\GitHub\9SecondHighestNumberIntArray\9SecondHighestNumberIntArray\bin\Debug\9SecondHighestNumberIntArray.exe
+C:\Users\GARRET\Documents\GitHub\9SecondHighestNumberIntArray\9SecondHighestNumberIntArray\bin\Debug\9SecondHighestNumberIntArray.pdb
+C:\Users\GARRET\Documents\GitHub\9SecondHighestNumberIntArray\9SecondHighestNumberIntArray\obj\x86\Debug\_9SecondHighestNumberIntArray.Form1.resources
+C:\Users\GARRET\Documents\GitHub\9SecondHighestNumberIntArray\9SecondHighestNumberIntArray\obj\x86\Debug\_9SecondHighestNumberIntArray.Properties.Resources.resources
+C:\Users\GARRET\Documents\GitHub\9SecondHighestNumberIntArray\9SecondHighestNumberIntArray\obj\x86\Debug\9SecondHighestNumberIntArray.csproj.GenerateResource.Cache
